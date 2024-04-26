@@ -1,0 +1,22 @@
+h3{color:red; font-size: 25px;}
+.wrapper{
+	width:60%;
+	margin:0 auto;
+	border:5px solid #ddd;
+}
+
+label{
+	font-size: 20px;
+}
+
+.first_name, .last_name, .email, .password, .date{
+	width: 90%;
+    padding: 10px;
+    height: 25px;
+    font-size: 20px;
+}
+
+.message{
+	font-size: 18px;
+	padding: 10px;
+}
